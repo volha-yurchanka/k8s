@@ -1,0 +1,9 @@
+$ kubectl get pod nginx -n default
+NAME    READY   STATUS    RESTARTS   AGE
+nginx   1/1     Running   0          2m31s
+
+$ kubectl port-forward pod/nginx 8080:80 -n default
+Forwarding from 127.0.0.1:8080 -> 80
+Forwarding from [::1]:8080 -> 80
+Handling connection for 8080
+Handling connection for 8080
