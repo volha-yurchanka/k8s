@@ -11,3 +11,4 @@
 ## Udemy
 ---
 [Create Pod](Udemy-course\Pods-with-YAML\pod.yaml)
+[ReplicaSet]Udemy-course\ReplicaSet)
