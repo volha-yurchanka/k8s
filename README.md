@@ -5,13 +5,19 @@
 ## LMS
 ---
 [Task-1](LMS\task-1\task.txt)
+
 [Task-2](LMS\task-2\task.txt)
+
 [Task-2-1](LMS\task-2-1\task.txt)
+
 [Task-2-2](LMS\task-2-2\task.txt)
+
 [Task-2-3](LMS\task-2-3\task.txt)
+
 [Task-2-4](LMS\task-2-4\task.txt)
 
 ## Udemy
 ---
 [Create Pod](Udemy-course\Pods-with-YAML\pod.yaml)
-[ReplicaSet]Udemy-course\ReplicaSet)
+
+[ReplicaSet](Udemy-course\ReplicaSet)
